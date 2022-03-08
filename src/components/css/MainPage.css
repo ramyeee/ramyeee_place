@@ -1,0 +1,26 @@
+.background-paper {
+    position : absolute;
+    left: 0;
+    z-index: -1;
+}
+
+.ID-pic {
+    position: absolute;
+    transform: rotate(11deg);
+    top: 350px;
+    left: 200px;
+    border-radius: 10px;
+}
+
+.ID-deco {
+    position:absolute;
+    top: 380px;
+    left: 165px;
+    width: 340px;
+}
+
+.title {
+    position : absolute;
+    top: 100px;
+    left : 12%;
+}
